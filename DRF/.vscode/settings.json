@@ -1,0 +1,31 @@
+{
+    "python.pythonPath": "C:\\Users\\Ahmed\\envs\\envir\\Scripts\\python.exe",
+    "auto-close-tag.activationOnLanguage": [
+        "xml",
+        "php",
+        "blade",
+        "ejs",
+        "jinja",
+        "javascript",
+        "javascriptreact",
+        "typescript",
+        "typescriptreact",
+        "plaintext",
+        "markdown",
+        "vue",
+        "liquid",
+        "erb",
+        "lang-cfml",
+        "cfml",
+        "HTML (EEx)",
+        "HTML (Eex)",
+        "plist"
+    ],
+    "python.autoComplete.extraPaths": [
+        "~/google-cloud-sdk/platform/google_appengine/lib/webapp2-2.5.2",
+        "~/google-cloud-sdk/platform/google_appengine",
+        "~/google-cloud-sdk/lib",
+        "~/google-cloud-sdk/platform/google_appengine/lib/endpoints-1.0",
+        "~/google-cloud-sdk/platform/google_appengine/lib/protorpc-1.0"
+    ],
+}
