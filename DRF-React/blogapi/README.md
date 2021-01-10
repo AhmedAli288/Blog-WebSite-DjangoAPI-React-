@@ -1,5 +1,14 @@
 # Getting Started with Create React App
 
+# Things needed before you run
+
+1)You will need a node modules file to run this react project and some packages in this app.
+
+2) After Downloading node muodules file, in command line of the project folder in vscode type;
+    npm i react-router-dom
+    npm i @material-ui/core
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
