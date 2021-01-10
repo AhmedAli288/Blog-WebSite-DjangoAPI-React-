@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-# Things needed before you run
+## Things needed before you run
 
 1)You will need a node modules file to run this react project and some packages in this app.
 
